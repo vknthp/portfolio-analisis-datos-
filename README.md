@@ -2,61 +2,111 @@
 
 ¡Hola! 👋
 
-Soy **Valenthina Cifuentes **, estudiante de **Análisis de Datos** de **Santiago de chile**.
+Soy **Valenthina P. Cifuentes**, estudiante de Análisis de Datos en Chile.
 
-Este portafolio reúne algunos de los proyectos desarrollados durante mi formación, en los cuales aplico herramientas de programación, análisis exploratorio, visualización e inferencia estadística.
+Este repositorio reúne proyectos desarrollados durante mi proceso de formación, en los cuales aplico herramientas de programación, análisis exploratorio, visualización e inferencia estadística.
 
-## Sobre mí
+---
 
-Actualmente me estoy formando en el área de análisis de datos, desarrollando habilidades para transformar datos en información que pueda apoyar la toma de decisiones.
+## Sobre este portafolio
 
-Durante mi formación he trabajado principalmente con Python y distintas herramientas de análisis estadístico y visualización de datos.
+El objetivo de este portafolio es presentar de manera ordenada algunos de los trabajos desarrollados durante mi formación y demostrar las habilidades adquiridas en análisis de datos.
 
-Entre las habilidades que he desarrollado se encuentran:
+Los proyectos incorporados buscan mostrar no solamente el código utilizado, sino también los objetivos de cada análisis, las herramientas aplicadas y los procedimientos utilizados para obtener resultados.
 
-- Manipulación y análisis de datos.
-- Análisis exploratorio de datos.
-- Visualización de información.
-- Estadística descriptiva.
-- Inferencia estadística.
-- Intervalos de confianza.
-- Pruebas de hipótesis.
+---
 
-Mi objetivo es continuar desarrollando proyectos que me permitan aplicar estos conocimientos a problemas reales y fortalecer progresivamente mi experiencia en análisis de datos.
+## ¿Por qué GitHub?
+
+Se seleccionó GitHub como plataforma para el desarrollo del portafolio porque permite almacenar, organizar y compartir proyectos de programación mediante repositorios.
+
+Además, GitHub utiliza Git como sistema de control de versiones, lo que permite registrar los cambios realizados en los proyectos y mantenerlos actualizados.
+
+Para un portafolio de análisis de datos resulta especialmente útil porque permite publicar:
+
+- Código fuente.
+- Conjuntos de datos.
+- Documentación.
+- Archivos README.
+- Resultados de proyectos.
+- Enlaces directos para compartir los trabajos.
+
+---
+
+## Características de GitHub
+
+Entre las principales características consideradas para seleccionar GitHub se encuentran:
+
+- Uso de Git para control de versiones.
+- Posibilidad de mantener repositorios públicos.
+- Organización de proyectos mediante carpetas y archivos.
+- Acceso directo al código desarrollado.
+- Posibilidad de documentar los proyectos mediante Markdown.
+- Facilidad para compartir trabajos mediante enlaces.
+- Posibilidad de utilizar GitHub Pages en desarrollos posteriores.
+
+---
+
+## Buenas prácticas consideradas
+
+Para el desarrollo y mantenimiento del portafolio se consideran las siguientes buenas prácticas:
+
+- Mantener una descripción clara del propósito de cada proyecto.
+- Documentar adecuadamente el código.
+- Utilizar nombres descriptivos para archivos y variables.
+- Probar los cambios antes de incorporarlos al repositorio.
+- Mantener los archivos y enlaces accesibles.
+- Utilizar mensajes de commit claros.
+- Actualizar periódicamente los proyectos y su documentación.
+- Mantener una estructura ordenada y sencilla de navegar.
+- Seleccionar proyectos que permitan demostrar diferentes habilidades.
+
+---
 
 ## Proyectos
 
-### 1. Análisis exploratorio de videojuegos
+### 1. Análisis Exploratorio de Datos de Videojuegos
 
-Proyecto orientado al análisis y visualización de información relacionada con ventas y evaluaciones de videojuegos.
+Proyecto orientado al análisis y visualización de datos relacionados con ventas y evaluaciones de videojuegos.
 
 Se utilizan herramientas de análisis exploratorio para estudiar relaciones entre variables, distribuciones y correlaciones.
 
-**Tecnologías:** Python, Pandas, Seaborn y Matplotlib.
+**Tecnologías utilizadas:**
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 
 ➡️ [Ver proyecto](./01-analisis-exploratorio-videojuegos)
 
-### 2. Inferencia estadística
+---
 
-Proyecto en el que se aplican herramientas de estadística descriptiva e inferencial sobre una muestra simulada de estudiantes.
+### 2. Inferencia Estadística
 
-Se desarrollan estadísticas descriptivas, análisis de distribuciones, un intervalo de confianza del 95% y una prueba de hipótesis.
+Proyecto en el cual se aplican herramientas de estadística descriptiva e inferencial sobre una muestra simulada de estudiantes.
 
-**Tecnologías:** Python, Pandas, NumPy, Matplotlib y SciPy.
+El análisis contempla estadísticas descriptivas, visualización de una distribución, construcción de un intervalo de confianza del 95% y una prueba de hipótesis.
 
-➡️ [Ver proyecto](./02-inferencia-estadistica)
-
-## Herramientas utilizadas
-
+**Tecnologías utilizadas:**
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - SciPy
+
+➡️ [Ver proyecto](./02-inferencia-estadistica)
+
+---
+
+## Documentación del portafolio
+
+Este portafolio fue desarrollado a partir de una planificación previa en la cual se analizaron las características de GitHub, las razones para su elección, buenas prácticas y ejemplos de portafolios profesionales.
+
+➡️ [Ver planificación inicial del portafolio](./documentacion/desafio-portafolio-virtual.pdf)
+
+---
 
 ## Contacto
 
-- Email: valenthina.perez.c@gmail.com
-- LinkedIn: https://www.linkedin.com/in/valenthina-p-cifuentes/
 - GitHub: https://github.com/vknthp
+- LinkedIn: [PEGA AQUÍ TU LINKEDIN]
